@@ -1,13 +1,3 @@
-# Tugas Besar Aplikasi Berbasis Platform - Web
-
-Judul: MILLENIUM TRAVEL AGENCY<br>
-Kelompok 5 <br>
-Anggota:
-- Moh Naufal Mizan Saputro (1301190015)
-- Muhammad Helmy Faishal (1301190400)
-- Ferdinan Nurvian Wibowo (1301194028)
-- Nurul Fauzi (1301194231)
-
 # Setup Project
 
 1. Setelah di download atau clone, buka terminal atau cmd lalu masukkan perintah
